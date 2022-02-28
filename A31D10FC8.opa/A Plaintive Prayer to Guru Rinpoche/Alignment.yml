@@ -1,0 +1,28 @@
+segment_sources:
+  PECC00A22:
+    type: origin_type
+    relation: translation
+    language: en
+  P0D4D7134:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8abbb252095641f3b191776fec0657e3:
+    PECC00A22: faf9840e462f4a6e9c2610bc2565b91a
+    P0D4D7134: 239712bcdf584cd5a6431f04e54e5068
+  f8f3bacc2ce94950bb75f310e3f46514:
+    PECC00A22: 44cb98976f724c1eb480d6075ce59751
+    P0D4D7134: 5ec451996dbf4a80abb853eb92acb82c
+  f3c094866ad749e989cc5f6c434ab7ec:
+    PECC00A22: aa9d8ec0c5e544de903b1598ac402039
+    P0D4D7134: 2fceeb0901a741218dc9d3e07f4b4365
+  e7fde0d9f7bf43a285f9ed8d56217f8a:
+    PECC00A22: 589470d5b5b040db8e2bb15b0e7bacbd
+    P0D4D7134: 2316e0369cf14e82a01a62a22f10412f
+  dc775f592773470d8f4c4c4594df14c8:
+    PECC00A22: 367d0181bf2e40e39054b589fdf6b8e0
+    P0D4D7134: 0da02299f2b040908a125c69884c939e
+  94505599286240ef9d865539d5207091:
+    PECC00A22: c0ce26462cf1409dbabf925ccea93a11
+    P0D4D7134: d8da364321c1420c9f21d5afd7708718

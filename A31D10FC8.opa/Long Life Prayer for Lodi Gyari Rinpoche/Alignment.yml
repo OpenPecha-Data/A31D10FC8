@@ -1,0 +1,33 @@
+segment_sources:
+  PECC00A22:
+    type: origin_type
+    relation: translation
+    language: en
+  PE3D38E9F:
+    type: origin_type
+    relation: translation
+    language: de
+  PD84DD533:
+    type: origin_type
+    relation: translation
+    language: fr
+  P0D4D7134:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e5c17349922943e698dc2b1d55bdfb8d:
+    PECC00A22: 619098f9ac4b44848bd676b29015365c
+    PE3D38E9F: 67dd9a1d158d42f9aea43ab00755e149
+    PD84DD533: 2c4e623e8b9542aeade7c1cada7f0630
+    P0D4D7134: a04564c333aa4f3fa1c7620fc783c4d4
+  b9fde3beb0604c379c4ca923225278a0:
+    PECC00A22: 4b0b1fb95c1c496e98c83063152e074f
+    PE3D38E9F: 188eaef7d7094ffbb1ac059587e21cd9
+    PD84DD533: 194cc3b7594b406ea9ab2694975b6f35
+    P0D4D7134: 1b2087a70a524aad90a141ae786a93f3
+  d71987123f224de19f7b671a576e9f9f:
+    PECC00A22: 503770c5d5f5460ca42b6e50170aa3c7
+    PE3D38E9F: 74af3ccb3f714c8fb657fbb8a44fd698
+    PD84DD533: 28b8576215104b99b4fedebdce2f3bda
+    P0D4D7134: 210bee66ac644eecabe405f62cf7157d
